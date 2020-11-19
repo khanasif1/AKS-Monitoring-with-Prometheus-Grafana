@@ -1,1 +1,1 @@
-# AKS-Monitoring-with-Prometheus-Grafana
+# AKS Monitoring with PrometheusGrafana
